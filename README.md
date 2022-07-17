@@ -26,10 +26,23 @@ THEN I am able to successfully create, update, and delete data in my database
 4. Node & Express.js
 
 ## Installation and Usage
+*Install* 
+1. </npm init -y/>
+2. </npm install mysql2/>
+3. </npm install sequelize/> 
+4. </npm install dotenv/> 
 
+*Usage*
+1. </mysql -u root -p/>
+2. Enter [PW]
+3. </source db/schema.sql/>
+4. </show databases;/>
+5. </quit/>
+6. </npm start seed/>
+7. </npm start/>
 
 ## Screen shots
-
+![Untitled_ Jul 17, 2022 2_59 AM](https://user-images.githubusercontent.com/98123372/179389583-a63eca95-5a7e-4a6b-a4e2-b237ae946bca.gif)
 
 ## Links
 Github - *https://github.com/gmmarcoux/E-commerce*
