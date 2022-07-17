@@ -32,4 +32,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ### Links
-#### Github - *https://github.com/gmmarcoux/E-commerce*
+Github - *https://github.com/gmmarcoux/E-commerce*
