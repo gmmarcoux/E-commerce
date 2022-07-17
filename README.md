@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End For an Internet Retail Company
 *A E-commerce website that provides E-commerce for an Internet Retail Company.*
 
 ## User Story
@@ -31,5 +31,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screen shots
 
 
-### Links
+## Links
 Github - *https://github.com/gmmarcoux/E-commerce*
